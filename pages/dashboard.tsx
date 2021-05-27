@@ -1,4 +1,4 @@
-import { useContext } from "react"
+import { useContext, useEffect } from "react"
 import { AuthContext } from "../contexts/AuthContext"
 
 export default function Dashboard() {
